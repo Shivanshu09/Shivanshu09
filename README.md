@@ -1,5 +1,9 @@
 ### Hi 👋, I'm Shivanshu
 
+## 3rd Year Undergraduate || B-Tech - Computer Science and Engineering 
+
+
+
 <!--
 **Shivanshu09/Shivanshu09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
