@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Shivanshu
 
-### 4th Year Undergraduate || B-Tech - Computer Science and Engineering 
+### Software Engineer 
  <!-- - :goal_net: Goal: Start contributing to open source and also to have a good Green Wall down there.  -->
- - :two_men_holding_hands: Let's collaborate and work together.
+ <!-- - :two_men_holding_hands: Let's collaborate and work together. -->
 <!--  - :disappointed: Sorry, I've kept a lot of my repositories private. -->
 
 <!--### Technology Stack
